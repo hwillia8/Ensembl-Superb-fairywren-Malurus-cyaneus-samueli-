@@ -1,1 +1,23 @@
-# Ensembl-Superb-fairywren-Malurus-cyaneus-samueli-
+# Ensembl Data for Malurus-cyaneus-samueli
+## Description
+*Abinitio* Genome Fasta file, and GTF file for the **Superb Fairywren**
+## Data Sources
+[Superb Fairywren Ensembl page](https://useast.ensembl.org/Malurus_cyaneus_samueli/Info/Index)
+## Usage
+### Downloading files, How to update annotation, *Scripts included*
+```
+## GitHub Desktop Workflow: Pushing Changes
+
+1. Open GitHub Desktop and select repository of choice.
+2. Make changes to your files in local clone
+3. In GitHub Desktop, go to the **Changes** tab.
+4. Review the changed files and write a **commit message**:
+   - Example:
+      - `unzip .gz files`
+      - 'replace GTF file with most current version'
+      - 'remove unused files in directory'
+5. Click **Commit to main**
+6. Click **Push origin** to upload your commit to the GitHub website.
+
+```
+## Version History
