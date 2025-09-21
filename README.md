@@ -4,9 +4,10 @@
 ## Data Sources
 [Superb Fairywren Ensembl page](https://useast.ensembl.org/Malurus_cyaneus_samueli/Info/Index)
 ## Usage
-### Downloading files, How to update annotation, *Scripts included*
+GitHub desktop and web version allow for easy collaboration between creators. I have experienced more difficulty using Github than I anticipated. While the video we were supposed to watch is only 50 minutes, this assignment has taken me literally all day.
+### Pushing Changes from the GitHub *Desktop Application*
 ```
-## GitHub Desktop Workflow: Pushing Changes
+### GitHub Desktop Workflow: Pushing Changes
 
 1. Open GitHub Desktop and select repository of choice.
 2. Make changes to your files in local clone
